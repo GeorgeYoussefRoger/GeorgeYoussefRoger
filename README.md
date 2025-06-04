@@ -16,8 +16,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
-
-## 📊 GitHub Stats:
+<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=GeorgeYoussefRoger&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=GeorgeYoussefRoger&theme=dark&hide_border=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeYoussefRoger&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
