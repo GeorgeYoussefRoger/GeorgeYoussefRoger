@@ -17,8 +17,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
 <br><br>
-![](https://github-readme-stats.vercel.app/api?username=GeorgeYoussefRoger&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=GeorgeYoussefRoger&theme=dark&hide_border=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeYoussefRoger&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=GeorgeYoussefRoger&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=GeorgeYoussefRoger&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeYoussefRoger&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+
 
 [![](https://visitcount.itsvg.in/api?id=GeorgeYoussefRoger&icon=0&color=0)](https://visitcount.itsvg.in)
