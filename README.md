@@ -18,10 +18,8 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GeorgeYoussefRoger&theme=dark&hide_border=true&include_all_commits=false&count_private=false)![](https://nirzak-streak-stats.vercel.app/?user=GeorgeYoussefRoger&theme=dark&hide_border=true) 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeYoussefRoger&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=GeorgeYoussefRoger&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=GeorgeYoussefRoger&theme=dark&hide_border=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeYoussefRoger&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=GeorgeYoussefRoger&icon=0&color=0)](https://visitcount.itsvg.in)
