@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm George  
-🎓 I'm a student at the Faculty of Computers & Artificial Intelligence, Cairo University  
-🔭 I'm currently working on academic and personal projects  
-🌱 I'm exploring the world of AI and Machine Learning  
-🎯 I'm focused on building clean and efficient solutions
+🎓 Student at the Faculty of Computers & Artificial Intelligence, Cairo University  
+🔭 Currently working on academic and personal projects  
+🌱 Exploring the world of AI and Machine Learning  
+🎯 Focused on building clean and efficient solutions
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
