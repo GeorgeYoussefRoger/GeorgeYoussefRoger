@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm George  
 🎓 Student at the Faculty of Computers & Artificial Intelligence, Cairo University  
-🔭 Currently working on academic and personal projects  
+🔭 Passionate about AI and Software Engineering  
 🌱 Exploring the world of AI and Machine Learning  
 🎯 Focused on building clean and efficient solutions
 
@@ -12,7 +12,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
@@ -22,17 +24,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" />
 </p>
-<p align="center">
-
-</p>
 
 ## 📊 Github Stats:
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeYoussefRoger&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 </div>
-
-
-          
-          
